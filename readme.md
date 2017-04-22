@@ -1,4 +1,7 @@
 # PHP - Les tableaux
+
+Preview : https://htmlpreview.github.io/?https://github.com/elixman/Exo4-php-les-tableaux/blob/master/index.php
+
 ## Exercice 1
 Créer un tableau **mois** et l'initialiser avec les valeurs suivantes :
 - **janvier**
